@@ -36,6 +36,10 @@
 
 @include mobile-first(1040px) {
   .site-footer {
+    margin-top: 148px;
+  }
+
+  .site-footer {
     &::after {
       position: absolute;
       bottom: 83px; 
