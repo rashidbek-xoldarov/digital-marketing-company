@@ -1009,6 +1009,7 @@ img {
   padding: 13px 15px;
   font-size: 13px;
   line-height: 20px;
+  background-color: transparent !important;
 }
 .site-form__input::-moz-placeholder {
   font-weight: 300;
